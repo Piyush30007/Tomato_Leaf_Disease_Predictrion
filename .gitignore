@@ -1,0 +1,9 @@
+node_modules/
+venv/
+__pycache__/
+
+Plant_Dataset/
+data/
+train/
+valid/
+test/
